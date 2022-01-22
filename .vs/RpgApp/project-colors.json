@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7c380e4-0171-4869-b8c2-860eec091f11": {
+      "ProjectGuid": "a7c380e4-0171-4869-b8c2-860eec091f11",
+      "DisplayName": "RpgApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

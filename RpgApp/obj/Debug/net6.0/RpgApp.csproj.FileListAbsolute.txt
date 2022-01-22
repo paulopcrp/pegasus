@@ -1,0 +1,15 @@
+D:\projetos\RpgApp\RpgApp\RpgApp\bin\Debug\net6.0\RpgApp.exe
+D:\projetos\RpgApp\RpgApp\RpgApp\bin\Debug\net6.0\RpgApp.deps.json
+D:\projetos\RpgApp\RpgApp\RpgApp\bin\Debug\net6.0\RpgApp.runtimeconfig.json
+D:\projetos\RpgApp\RpgApp\RpgApp\bin\Debug\net6.0\RpgApp.dll
+D:\projetos\RpgApp\RpgApp\RpgApp\bin\Debug\net6.0\ref\RpgApp.dll
+D:\projetos\RpgApp\RpgApp\RpgApp\bin\Debug\net6.0\RpgApp.pdb
+D:\projetos\RpgApp\RpgApp\RpgApp\obj\Debug\net6.0\RpgApp.csproj.AssemblyReference.cache
+D:\projetos\RpgApp\RpgApp\RpgApp\obj\Debug\net6.0\RpgApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\RpgApp\RpgApp\RpgApp\obj\Debug\net6.0\RpgApp.AssemblyInfoInputs.cache
+D:\projetos\RpgApp\RpgApp\RpgApp\obj\Debug\net6.0\RpgApp.AssemblyInfo.cs
+D:\projetos\RpgApp\RpgApp\RpgApp\obj\Debug\net6.0\RpgApp.csproj.CoreCompileInputs.cache
+D:\projetos\RpgApp\RpgApp\RpgApp\obj\Debug\net6.0\RpgApp.dll
+D:\projetos\RpgApp\RpgApp\RpgApp\obj\Debug\net6.0\ref\RpgApp.dll
+D:\projetos\RpgApp\RpgApp\RpgApp\obj\Debug\net6.0\RpgApp.pdb
+D:\projetos\RpgApp\RpgApp\RpgApp\obj\Debug\net6.0\RpgApp.genruntimeconfig.cache
